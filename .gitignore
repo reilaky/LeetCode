@@ -1,0 +1,7 @@
+# .gitignore
+
+# main.cpp
+LeetCode_Debug/main.cpp
+
+# xcodeproj
+LeetCode_Debug.xcodeproj/

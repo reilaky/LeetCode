@@ -12,3 +12,14 @@
 #include <stdio.h>
 
 #endif /* _Sum_hpp */
+
+
+#include "vector"
+
+using namespace std;
+
+class ThreeSum
+{
+public:
+    vector<vector<int> > threeSum(vector<int>& nums);
+};

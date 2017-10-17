@@ -8,7 +8,7 @@
 
 #include "3Sum.hpp"
 
-vector<vector<int> > ThreeSum::threeSum(vector<int>& nums)
+vector<vector<int> > Solution::threeSum(vector<int>& nums)
 {
     // brute force: duplication && n^3
     // a + b + c = 0, triplets must contain at least one negative and one positive number or all to be 0.
